@@ -1,5 +1,7 @@
 public class vehicle {
 public static void main(String[] args) {
-    System.out.println("Hello, World!");
-    System.out.println("This is a vehicle class.");
+    System.out.println("Lamboghini");
+    System.out.println("200mph");
+    
+}
 }
